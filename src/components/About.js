@@ -19,7 +19,7 @@ export default function About(props) {
                             <p className='my-4 m-2 text-sm font-Solway md:text-base md:p-4'>
                                 Hi, MONSON here.... I am an aspiring web-developer currently studying Computer Science. I believe my
                                 knack for trying new things will help me in moving forward.You can connect with me on <a href="https://www.linkedin.com/in/monson-reji-verghese-a26061231/"><b className='hover:text-blue-700'>linkedin</b></a> and do
-                                check out my <a href="https://monson2002-portfolio-2023.netlify.app/"><b className='hover:text-blue-700'>portfolio</b></a>.
+                                check out my <a href="https://monson2002-portfolio-2023.netlify.app/"><b className='hover:text-blue-700' target="_blank">portfolio</b></a>.
                             </p>
                             </div>
                         </div>
